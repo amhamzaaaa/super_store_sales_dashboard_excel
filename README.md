@@ -44,9 +44,6 @@ The dashboard is designed to help businesses:
 
 ---
 
-## Screenshots
+## 🖼️ Preview  
 ![screenshot](dashboard.png)
 ![screenshot](sliced_dash.png)
-
-## 🖼️ Preview  
-(Add a screenshot or sni
